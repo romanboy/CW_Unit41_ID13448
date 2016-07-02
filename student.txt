@@ -1,0 +1,5 @@
+1,radu,asdfgh,r,c,m,01/01/01,a@a.com,123456
+2,gustav,mjnh,g,t,m,01/01/01,a@a.cim,09876
+1,kjlh,jh,firstname1,lastname1,kljh,kmljh,kmljh,90i8u67
+2,username1,password1,fname1,lanme1,gender1,dob1,email1,tel1
+1,uname2,pass2,fname2,lname2,gend2,dob2,em2,tel2
